@@ -24,10 +24,10 @@ Please format your answer according to the following requirements
 
 Your response should be in JSON format with two fields:
 * city: The city in the person's address entry, with the correct format
-* state: The state which the person resides in.
+* state: The state code of the state which the person resides in.
 
 Example response format:
-{"city": "Minneapolis", "state": "Minnesota"}
+{"city": "Minneapolis", "state": "MN"}
 
 Ensure your response is a single-line JSON object."""
 }
